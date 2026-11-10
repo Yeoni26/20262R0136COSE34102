@@ -21,13 +21,22 @@
 - GitHub 에 업로드  
 `git push`
 
-- GitHub 변경사항 가져오기
+- GitHub 변경사항 가져오기  
 `git pull`
 
-- 처음 push 할 때 원격 브랜치 연결
+- 처음 push 할 때 원격 브랜치 연결  
 `git push -u origin main`
 
+## 4. Branch
+- 브랜치 확인  
+`git branch`
 
+- 새 브랜치 생성  
+`git branch branch-name`
 
+- 브랜치 이동  
+`git switch branch-name`
 
+- 브랜치 생성 및 이동  
+`git switch -c branch-name`
 
