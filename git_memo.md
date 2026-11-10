@@ -40,3 +40,11 @@
 - 브랜치 생성 및 이동  
 `git switch -c branch-name`
 
+
+## 5. Log
+- 로그 확인  
+`git log`
+
+- 현재 변경사항 확인  
+`git diff`
+
