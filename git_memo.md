@@ -48,3 +48,8 @@
 - 현재 변경사항 확인  
 `git diff`
 
+## 6. 자주 쓰는 명령어
+git add .  
+git commit -m "commit message"  
+git push
+
