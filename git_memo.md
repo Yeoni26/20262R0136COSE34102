@@ -15,6 +15,19 @@
 `git add [filename]`
 
 - 변경사항 기록  
-`git commit -m "commit message`
+`git commit -m "commit message"`
+
+## 3. Push & Pull
+- GitHub 에 업로드  
+`git push`
+
+- GitHub 변경사항 가져오기
+`git pull`
+
+- 처음 push 할 때 원격 브랜치 연결
+`git push -u origin main`
+
+
+
 
 
